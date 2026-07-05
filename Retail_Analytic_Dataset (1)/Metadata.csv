@@ -1,0 +1,6 @@
+Column Name,Description
+ID,Unique identifier for each customer
+Year_Birth,Year of birth of the customer
+Education,Highest level of education attained by the customer
+Marital_Status,Current marital status of the customer
+Income,Yearly household income of the customer
